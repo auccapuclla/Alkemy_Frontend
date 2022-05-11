@@ -1,0 +1,7 @@
+.place__header{
+    display: flex;
+    align-items: column;
+}
+img{
+    width: 50%;
+}
